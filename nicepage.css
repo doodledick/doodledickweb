@@ -37353,6 +37353,10 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -31px auto 25px 476px;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 81px;
+  }
+
   .u-header .u-image-1 {
     width: 193px;
     height: 33px;
@@ -37380,9 +37384,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-3 {
     width: 19px;
-    margin-top: -20px;
-    margin-bottom: 27px;
-    margin-left: 476px;
+    margin-top: -28px;
+    margin-bottom: 34px;
+    margin-left: 234px;
   }
 }
 @media (max-width: 991px) {
